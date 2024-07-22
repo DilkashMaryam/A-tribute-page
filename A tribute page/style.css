@@ -1,0 +1,16 @@
+.main{
+            background-color: #00FA9A;
+            margin: 11px;
+            margin-bottom: 0%;
+            text-align: center;
+            text-shadow: 5px 5px 10px white;
+            font-size: 7vh;
+            } 
+.sub{
+            background-color: #00FA9A;
+            box-shadow: 20px 20px 20px #98FB98;
+            font-family: Georgia;
+            padding: 25px 25px;
+            margin: 11px;
+            margin-top: 0%;
+}
