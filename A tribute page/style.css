@@ -1,0 +1,12 @@
+.main{
+    color: black;
+    letter-spacing: normal;
+    position: relative;
+    text-align: center;
+}
+.sub{
+    text-align: left;
+    color: black;
+    background-color: aqua;
+    font-style: oblique;
+}
